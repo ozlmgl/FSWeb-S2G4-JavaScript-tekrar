@@ -140,3 +140,4 @@ module.exports = {
   siralisayilar,
   tekraredensayilar,
 };
+// commit
